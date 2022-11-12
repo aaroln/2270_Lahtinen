@@ -1,0 +1,27 @@
+
+.main-div {
+    /* This is a comment */
+    color: #1d42ad;
+    font-family: "Arial Narrow";
+    font-size: 40px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    background: white;
+    width: 50%;
+    height: 50%;
+}
+
+#div1 {
+    /* This is a comment */
+    color: #1d42ad;
+    font-family: "Arial Narrow";
+    font-size: 40px;
+    position: absolute;
+    top: 1500px;
+    left: 200px;
+    background: white;
+    width: 50%;
+    height: 50%;
+
+}
