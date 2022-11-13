@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="added three.js and scripts">
-      <change afterPath="$PROJECT_DIR$/model/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Computer_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Computer_emissive.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Computer_metallicRoughness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Computer_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Details_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Details_emissive.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Details_metallicRoughness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/textures/Details_normal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/web_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/web_style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +66,7 @@
       <updated>1668151254573</updated>
       <workItem from="1668151255896" duration="1243000" />
       <workItem from="1668255656127" duration="5344000" />
-      <workItem from="1668333056023" duration="4625000" />
+      <workItem from="1668333056023" duration="5789000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -94,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668268408068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added three.js and scripts">
+      <created>1668342311514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668342311514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
