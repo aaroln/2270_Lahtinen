@@ -1,5 +1,5 @@
 
-.main-div {
+.titleBlock {
     /* This is a comment */
     color: #1d42ad;
     font-family: "Arial Narrow";
@@ -8,20 +8,18 @@
     top: 100px;
     left: 200px;
     background: white;
-    width: 50%;
-    height: 50%;
+    width: 80vw;
+    height: 50vh;
 }
 
-#div1 {
-    /* This is a comment */
+h1{
     color: #1d42ad;
-    font-family: "Arial Narrow";
-    font-size: 40px;
-    position: absolute;
-    top: 1500px;
-    left: 200px;
-    background: white;
-    width: 50%;
-    height: 50%;
-
 }
+
+.canvas {
+    width: 80vw;
+    height: 50vw;
+    background: yellow;
+    margin-left: 10vw;
+}
+
