@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="added three.js and scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <updated>1668151254573</updated>
       <workItem from="1668151255896" duration="1243000" />
       <workItem from="1668255656127" duration="5344000" />
-      <workItem from="1668333056023" duration="5789000" />
+      <workItem from="1668333056023" duration="6304000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -89,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668342311514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added three.js and scripts">
+      <created>1668343881276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668343881276</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
