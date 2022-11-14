@@ -61,7 +61,7 @@
     //Setup IFC Loader
     const ifcLoader = new IFCLoader();
     ifcLoader.ifcManager.setWasmPath( './model/' );
-    ifcLoader.load( 'model/checker.ifc', function ( model ) {
+    ifcLoader.load( 'model/try.ifc', function ( model ) {
 
       scene.add( model.mesh );
       render();
