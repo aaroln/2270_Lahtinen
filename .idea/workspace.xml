@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="gltf added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Computer_baseColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Computer_emissive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Computer_metallicRoughness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Computer_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Details_baseColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Details_emissive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Details_metallicRoughness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/textures/Details_normal.png" beforeDir="false" />
-    </list>
+    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="gltf added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +71,7 @@
       <workItem from="1668381586557" duration="1811000" />
       <workItem from="1668419150715" duration="536000" />
       <workItem from="1668420227771" duration="42000" />
+      <workItem from="1668427116375" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -128,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668344302998</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="gltf added">
+      <created>1668427145095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668427145096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
