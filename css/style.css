@@ -1,5 +1,14 @@
-canvas {
-    position: fixed;
-    top: 100px;
+.titleBlock {
     left: 100px;
+    background: transparent;
+    font-family: "Arial Narrow";
+
+}
+
+.canvas {
+    margin-left: 5.5vw;
+    height: 50vh;
+    width: 50vw;
+    border: 1px solid black;
+
 }

@@ -48,10 +48,10 @@
 
     //Scene
     scene = new THREE.Scene();
-    scene.background = new THREE.Color('lightgrey');
+    scene.background = new THREE.Color('red');
 
     //Camera
-    camera = new THREE.PerspectiveCamera( 45, 1000 / 1000, 0.6, 500 );
+    camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 0.6, 500 );
     camera.position.z = 0;
     camera.position.y = 20;
     camera.position.x = 20;
@@ -113,7 +113,7 @@
 
     //Renderer
     renderer = new THREE.WebGLRenderer( { antialias: true	} );
-    renderer.setSize(1000,1000);
+    renderer.setSize( window.innerWidth, window.innerHeight );
     renderer.setPixelRatio( window.devicePixelRatio );
     document.body.appendChild( renderer.domElement );
 
@@ -129,9 +129,9 @@
 
   function onWindowResize() {
 
-    camera.aspect = 500,500;
+    camera.aspect = window.innerWidth / window.innerHeight;
     camera.updateProjectionMatrix();
-    renderer.setSize(500,500);
+    renderer.setSize( window.innerWidth, window.innerHeight );
 
     render();
 
