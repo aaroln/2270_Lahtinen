@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="moving with canvas completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2270.html" beforeDir="false" afterPath="$PROJECT_DIR$/2270.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/checker.ifc" beforeDir="false" afterPath="$PROJECT_DIR$/model/checker.ifc" afterDir="false" />
-    </list>
+    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="cleaned up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +76,7 @@
       <workItem from="1668427464483" duration="5370000" />
       <workItem from="1668480561860" duration="1580000" />
       <workItem from="1668922859106" duration="20439000" />
-      <workItem from="1669003497191" duration="16160000" />
+      <workItem from="1669003497191" duration="17157000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -181,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668955913007</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="cleaned up">
+      <created>1669040458755</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669040458755</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +210,7 @@
     <MESSAGE value="half model added, colours not added yet" />
     <MESSAGE value="code redone" />
     <MESSAGE value="moving with canvas completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving with canvas completed" />
+    <MESSAGE value="cleaned up" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up" />
   </component>
 </project>
