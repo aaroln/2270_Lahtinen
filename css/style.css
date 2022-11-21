@@ -1,14 +1,52 @@
 .titleBlock {
-    left: 100px;
-    background: transparent;
-    font-family: "Arial Narrow";
+    top: 0px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 0.5%;
+}
 
+h1 {
+    margin-left: 2.5vw;
+    margin-bottom: 0px;
+    font-family: "Poppins";
 }
 
 .canvas {
-    margin-left: 5.5vw;
-    height: 50vh;
-    width: 50vw;
-    border: 1px solid black;
+    left: 360px;
+    top: 200px;
+    height: 600px;
+    width: 1000px;
+    border: 1px solid grey;
+    position: absolute;
 
+}
+
+nav {
+    display: flex;
+    padding: 0.5% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    width: 150px;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: center;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.nav-links ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Poppins";
 }
