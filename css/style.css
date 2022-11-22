@@ -2,10 +2,11 @@
     top: 0px;
     text-align: center;
     padding: 0.5%;
+    width: 100%;
 }
 
-h1 {
-    margin-left: 2.5vw;
+.titleBlock h1 {
+
     margin-bottom: 0px;
     font-family: "Poppins";
 }
@@ -23,6 +24,12 @@ h1 {
 
 }
 */
+
+canvas {
+    width: 100%;
+    background-color: aliceblue;
+    padding: 0%;
+}
 nav {
     display: flex;
     padding: 0.5% 6%;
@@ -73,3 +80,57 @@ nav img {
     font-style: oblique;
 
 }
+
+.text-box {
+    font-family: Poppins;
+    text-align: center;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    position: absolute;
+}
+
+.ground h2 {
+    font-family: Poppins;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -50px;
+}
+
+.ground h1 {
+    font-family: Poppins;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.ground h3 {
+    font-size: 30px;
+    font-family: Poppins;
+    margin-top: -50px;
+}
+
+.ground h4 {
+    font-size: 30px;
+    font-family: Poppins;
+    margin-top: -100px;
+}
+
+.ground h5 {
+    font-size: 30px;
+    font-family: Poppins;
+    margin-top: -175px;
+}
+
+.ground h6 {
+    font-size: 30px;
+    font-family: Poppins;
+    margin-top: -150px;
+}
+
+
+
+
+
+
+

@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="cleaned up">
-      <change afterPath="$PROJECT_DIR$/activePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedules.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections.html" afterDir="false" />
+    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="other pages made, clipping to be added now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2270.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifc.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/license/GeomGymLicense.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plans.html" beforeDir="false" afterPath="$PROJECT_DIR$/plans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +82,7 @@
       <workItem from="1668427464483" duration="5370000" />
       <workItem from="1668480561860" duration="1580000" />
       <workItem from="1668922859106" duration="20439000" />
-      <workItem from="1669003497191" duration="34649000" />
+      <workItem from="1669003497191" duration="48243000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -204,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669040555286</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="other pages made, clipping to be added now">
+      <created>1669109644928</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669109644928</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +231,7 @@
     <MESSAGE value="code redone" />
     <MESSAGE value="moving with canvas completed" />
     <MESSAGE value="cleaned up" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaned up" />
+    <MESSAGE value="other pages made, clipping to be added now" />
+    <option name="LAST_COMMIT_MESSAGE" value="other pages made, clipping to be added now" />
   </component>
 </project>
