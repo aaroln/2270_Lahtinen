@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="added sections, finishing plans">
-      <change afterPath="$PROJECT_DIR$/images/columns.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/truss.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plans.html" beforeDir="false" afterPath="$PROJECT_DIR$/plans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedules.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedules.html" afterDir="false" />
-    </list>
+    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +79,7 @@
       <workItem from="1668922859106" duration="20439000" />
       <workItem from="1669003497191" duration="48551000" />
       <workItem from="1669626628372" duration="9692000" />
-      <workItem from="1669899458398" duration="3061000" />
+      <workItem from="1669899458398" duration="3404000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -229,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669644290855</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="done">
+      <created>1669902823872</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669902823872</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +260,7 @@
     <MESSAGE value="plans page done" />
     <MESSAGE value="plans page done and images added" />
     <MESSAGE value="added sections, finishing plans" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sections, finishing plans" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
