@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="plans page done and images added">
+    <list default="true" id="c466728b-f565-4db2-9a48-271cdf0e9aba" name="Changes" comment="added sections, finishing plans">
+      <change afterPath="$PROJECT_DIR$/images/columns.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/truss.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plans.html" beforeDir="false" afterPath="$PROJECT_DIR$/plans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections.html" beforeDir="false" afterPath="$PROJECT_DIR$/sections.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedules.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedules.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +86,8 @@
       <workItem from="1668480561860" duration="1580000" />
       <workItem from="1668922859106" duration="20439000" />
       <workItem from="1669003497191" duration="48551000" />
-      <workItem from="1669626628372" duration="9417000" />
+      <workItem from="1669626628372" duration="9692000" />
+      <workItem from="1669899458398" duration="3061000" />
     </task>
     <task id="LOCAL-00001" summary="first dev of webpage&#10;added css and html files">
       <created>1668263822002</created>
@@ -218,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669132309536</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added sections, finishing plans">
+      <created>1669644290855</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669644290855</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +260,7 @@
     <MESSAGE value="other pages made, clipping to be added now" />
     <MESSAGE value="plans page done" />
     <MESSAGE value="plans page done and images added" />
-    <option name="LAST_COMMIT_MESSAGE" value="plans page done and images added" />
+    <MESSAGE value="added sections, finishing plans" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sections, finishing plans" />
   </component>
 </project>
